@@ -1,6 +1,6 @@
 # PyShooting
 
-This is a miniature shooting game developed by python. As a user shoots the rock with a missile, the rock will be falling down faster.
+This is a miniature shooting game developed by python. User shoots the rock with a missile, the rock will be falling down faster.
 
 Required library: pygame
 
