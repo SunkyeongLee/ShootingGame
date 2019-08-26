@@ -5,9 +5,21 @@ This is a miniature shooting game developed by python. User shoots the rock with
 Required library: pygame
 
 
+#  Version
+pygame 1.9.6
+python 2.7.10
+
 
 #  Setting up Environment
 
+On mac
+  1. type below at the cmd
+    1. curl https://bootstrap.pypa.io/get-pip.py get-pip.py
+      this website is just an module that enables to install pip. If pip is already installed, you may skip this line.
+    2. sudo pip3 install pygame
+  2. open conversational interpreter
+
+Windows
 If you are using IDLE
   1. Open cmd
   2. Move to the directory of where the python file exists
