@@ -17,7 +17,8 @@ On mac
     1. curl https://bootstrap.pypa.io/get-pip.py get-pip.py
       this website is just an module that enables to install pip. If pip is already installed, you may skip this line.
     2. sudo pip3 install pygame
-  2. open conversational interpreter
+  2. open python shell
+    1. type import pygame
 
 Windows
 If you are using IDLE
