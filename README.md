@@ -7,7 +7,7 @@ Required library: pygame
 
 #  Version
 pygame 1.9.6
-python 2.7.10
+python 3.6.8
 
 
 #  Setting up Environment
@@ -17,8 +17,8 @@ On mac
     1. curl https://bootstrap.pypa.io/get-pip.py get-pip.py
       this website is just an module that enables to install pip. If pip is already installed, you may skip this line.
     2. sudo pip3 install pygame
-  2. open python shell
-    1. type import pygame
+  2. open python IDLE shell
+    1. type import pygame to make sure pygame runs correctly
 
 Windows
 If you are using IDLE
